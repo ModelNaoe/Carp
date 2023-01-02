@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980705375500",
+    "project_id": "carp---greener-future",
+    "storage_bucket": "carp---greener-future.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980705375500:android:caf0941b21c89244e28529",
+        "android_client_info": {
+          "package_name": "com.marioraphael.carp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980705375500-v9o8kjpd5qrphcsvl5sc99m8neb6hajh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Bj-2Tg_Gm29OzikvKK4R_xtGjvDx-BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980705375500-v9o8kjpd5qrphcsvl5sc99m8neb6hajh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
